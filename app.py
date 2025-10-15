@@ -15,7 +15,7 @@ streamlit-aggrid
 ### FILE: README.md
 # Smart Mess Checker — Streamlit Starter
 
-This scaffold provides a minimal but production-minded starter for the Smart Mess Checker app.
+# This scaffold provides a minimal but production-minded starter for the Smart Mess Checker app.
 
 Run locally:
 1. Create `.env` with `MONGODB_URI` and `MONGODB_DB`.
